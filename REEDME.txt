@@ -1,0 +1,8 @@
+php artisan migrate
+php artisan db:seed
+
+apabila seed error, maka admin bisa register dengan cara /register
+jangan lupa isi .env nya ya :)
+
+
+semoga saya lulus
